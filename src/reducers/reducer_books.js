@@ -1,8 +1,9 @@
 export default function() {
-  return [
-    { title: "Javascript: The Good Parts", pages: 101 },
-    { title: "Harry Potter", pages: 39 },
-    { title: "The Dark Tower", pages: 85 },
-    { title: "Eloquent Ruby", pages: 1 }
-  ];
+	return [
+		{ title: 'React Advanced Concepts' },
+		{ title: 'Javascript Frameworks' },
+		{ title: 'Node JS Applications' },
+		{ title: 'React & Redux' },
+		{ title: 'Advanced CSS & HTML5' },
+	];
 }
